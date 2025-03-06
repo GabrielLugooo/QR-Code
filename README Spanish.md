@@ -33,8 +33,13 @@ El propósito de este proyecto es aprender a generar códigos QR de manera inter
 
 #### Vista Previa
 
-<img align="center" src="https://i.imgur.com/NMmyect.png" alt="QRCode_01" />
-<img align="center" src="https://i.imgur.com/E3jTf9s.png" alt="QRCode_02_Full" />
+- Minimal
+  <img align="center" src="https://i.imgur.com/ndyntln.jpeg" alt="QRCode Minimal" />
+  <img align="center" src="https://i.imgur.com/NMmyect.png" alt="QRCode_01" width="100" height="100" />
+
+- Full
+  <img align="center" src="https://i.imgur.com/MeLvMDE.jpeg" alt="QRCode Full" />
+  <img align="center" src="https://i.imgur.com/NMmyect.png" alt="QRCode_02_Full" width="100" height="100" />
 
 #### Código con Comentarios (Español)
 
