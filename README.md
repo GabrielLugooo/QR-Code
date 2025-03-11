@@ -22,6 +22,8 @@ The purpose of this project is to learn how to generate QR codes interactively, 
 ### Tools Used
 
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/TKinter-000000?logo=tkinter&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/QR%20Code-000000?logo=qrcode&logoSize=auto)
 
 - Python.
 - `qrcode` library.

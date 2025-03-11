@@ -22,6 +22,8 @@ El propósito de este proyecto es aprender a generar códigos QR de manera inter
 ### Herramientas Usadas
 
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/TKinter-000000?logo=tkinter&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/QR%20Code-000000?logo=qrcode&logoSize=auto)
 
 - Python.
 - Librería `qrcode`.
